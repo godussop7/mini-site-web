@@ -13,9 +13,9 @@ Ce projet est un site web statique simple comprenant :
 
 ```
 mon-site/
-├── index.html   → page principale
-├── style.css    → styles visuels
-└── README.md    → documentation
+├── index.html  
+├── style.css   
+└── README.md   
 ```
 
 ## Technologies utilisées
